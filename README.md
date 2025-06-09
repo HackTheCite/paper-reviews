@@ -1,9 +1,9 @@
-# 🧠 Hack the Cite
+# 🧠 HackTheCite
 
 > **Hack** = Analyze, build, implement  
 > **Cite** = Academic papers and research literature  
 
-Welcome to **Hack the Cite** — where we take cutting-edge academic papers, dive deep into understanding them, and hack on the ideas to make them real.
+Welcome to **HackTheCite** — where we take cutting-edge academic papers, dive deep into understanding them, and hack on the ideas to make them real.
 
 ## 🎯 Mission
 
