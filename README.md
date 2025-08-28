@@ -15,10 +15,10 @@ We read the best papers, deeply analyze the ideas, and build practical implement
 paper-reviews/
 ├── reviews/                    # Individual paper reviews
 │   ├── attention-is-all-you-need/
-│   │   ├── review.md          # Our analysis and learnings
-│   │   ├── implementation/    # Code implementations
-│   │   ├── notes/            # Raw notes and analysis
-│   │   └── paper.pdf         # Original paper (optional)
+│   │   ├── final.md          # Our analysis and learnings
+│   │   ├── implementation/    # Code implementations (optional)
+│   │   ├── notes/            # Raw notes and analysis (optional)
+│   │   └── paper.pdf         # Original paper 
 │   ├── diffusion-models/
 │   │   ├── review.md
 │   │   ├── implementation/
@@ -31,7 +31,7 @@ paper-reviews/
 
 1. **Read** - Deep dive into the paper
 2. **Analyze** - Break down the key contributions and methods
-3. **Implement** - Build and test the core ideas
+3. **Implement** - Build and test the core ideas 
 4. **Iterate** - Experiment, extend, and improve
 5. **Write** - Document our learnings in a comprehensive review
 
